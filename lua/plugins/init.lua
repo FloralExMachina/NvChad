@@ -79,4 +79,8 @@ return {
     lazy = false,
     opts = require "configs.todocomments",
   },
+  --{
+  --  "OXY2DEV/markview.nvim",
+  --  lazy = false
+  --}
 }
